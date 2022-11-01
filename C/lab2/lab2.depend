@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666018399 source:c:\program files (x86)\codeblocks\mingw\lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
