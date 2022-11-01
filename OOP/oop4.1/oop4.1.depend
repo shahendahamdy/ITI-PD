@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667257994 source:c:\program files (x86)\codeblocks\mingw\oop4.1\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
