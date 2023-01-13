@@ -1,0 +1,57 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Home</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="Libraries/jqueryDevMin.js"></script>
+  </head>
+
+  <body>
+    <div class="wrapper" align="center">
+      <div class="btn" id="btn1">About</div>
+      <div class="btn" id="btn2">Gallery</div>
+      <div class="btn" id="btn3">Services</div>
+      <div class="btn" id="btn4">Complain</div>
+    </div>
+
+    <div class="d1" id="div1" align="center" style="height: 200px">
+      <h1>story about snowman..</h1>
+    </div>
+    <!-- ----------------------------------------- -->
+    <div class="d1" align="center" id="div2">
+      <img class="img1" id="left" src="imagess/left.png" />
+      <img class="img2" id="crntImg" src="imagess/1.jpg" />
+      <img class="img3" id="right" src="imagess/right.png" />
+    </div>
+    <!-- ----------------------------------------- -->
+    <div class="lst" align="center" id="div3">
+      <ul>
+        <li><a href="#">Item #1</a></li>
+        <li><a href="#">Item #2></a></li>
+        <li><a href="#">Item #3</a></li>
+      </ul>
+    </div>
+    <!-- -------------------------------------------- -->
+    <div class="d1" align="center" id="div4">
+      <lable>name : </lable>
+      <input type="text" id="t1" /><br /><br />
+      <label>Email : </label>
+      <input type="email" id="t2" /><br /><br />
+      <lable>phone : </lable>
+      <input type="text" id="t3" /><br /><br />
+      <label>Complain</label><br />
+      <textarea id="t4" style="width: 250px; height: 150px"></textarea
+      ><br /><br />
+      <input type="button" id="snd" value="send" />
+    </div>
+    <!-- ----------------------------------------- -->
+    <div class="d1" align="center" id="out">
+      <p>Your complain is <b id="b1"></b></p>
+      <p>Your name is <b id="b2"></b></p>
+      <p>Your Email is <b id="b3"></b></p>
+      <p>Your Phone is <b id="b4"></b></p>
+      <input type="button" id="bck" value="back to edit" />
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,28 @@
+<html lang="en">
+  <head>
+    <script src="Libraries/jqueryDevMin.js"></script>
+    <script src="Libraries/jquery-ui.min.js"></script>
+    <script src="Libraries/zoomsl.min.js"></script>
+    <title>Document</title>
+  </head>
+  <body>
+    <img
+      id="imageZoom"
+      src="2.jpg"
+      alt="A image to apply the ImageZoom plugin"
+    />
+    <script>
+      console.log("kk");
+      $(function () {
+        $("#imageZoom").imagezoomsl({
+          zoomrange: [5, 5],
+        });
+      });
+      /*       $(document).ready(function () {
+        $("#imageZoom").imageZoomsl({
+          zoomrange: [3, 3],
+        });
+      }); */
+    </script>
+  </body>
+</html>
