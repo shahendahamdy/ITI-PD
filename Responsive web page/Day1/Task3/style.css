@@ -1,0 +1,47 @@
+.container{
+    color: white;
+    text-align: center;
+    font-size: larger;
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.middle{
+    display: flex;
+    flex-direction: row;
+    flex-grow: 2;
+    height: 400px;
+    gap: 2;
+
+}
+.a1{
+    background-color: rgb(211, 115, 80);
+    flex-basis: 200px;
+}
+.a2{
+    background-color: rgb(106, 206, 106);
+    flex-grow: 2;
+}
+.a3{
+    background-color: rgb(211, 115, 80);
+    flex-basis: 200px;
+}
+.header , .footer{
+    background-color: rgb(127, 164, 232);
+    padding: 10px;
+    height: 50px;
+
+}
+div{
+    margin: 5px;
+}
+@media (max-width:500px){
+    .container,.middle{
+        flex-direction: column;
+    }
+
+}

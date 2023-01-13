@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+
+    <title>Validation</title>
+    <style>
+        input:valid+span {
+            display: none;
+        }
+
+        input:invalid+span {
+            color: red;
+            display: inline;
+        }
+    </style>
+</head>
+<body>
+    <form>
+    <h1>Change Email Address</h1>
+    User Name <input type="text" id="uName" required pattern="^[a-z A-Z]+$">
+    <span id="p1">the required username may only be a series of alphapetical characters</span><br>
+    Email <input type="text" id="Email" required pattern="^[a-z A-Z 1-9 @]+$">
+    <span id="'p2">the required Email address may not include any special characters other than the @ sign</span><br>
+<input type="button" value="change">
+</form>
+</body>
+</html>
