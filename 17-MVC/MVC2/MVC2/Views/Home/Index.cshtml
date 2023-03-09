@@ -1,0 +1,55 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<style>
+/*    table tr td{
+        border:1px solid black;
+    }*/
+</style>
+<div class="jumbotron">
+    <h1>please fill the form</h1>
+    <form action="/Home/ShowDetails" method="post">
+        <br><br>
+            <table>
+                <tr>
+                    <td>ID</td>
+                    <td>
+                        <input type="text" name="id" /><br><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>name  </td>
+                    <td>
+                        <input type="text" name="name" /><br><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>pic</td>
+                    <td>
+                        <select name="pic">
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</optionvalue="1">
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                            <option value="7">7</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <br />
+                        <input type="submit"  class="btn btn-primary />
+                    </td>
+                </tr>
+
+            </table>
+       
+        <br>
+    </form>
+    
+</div>
+

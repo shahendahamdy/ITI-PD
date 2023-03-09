@@ -1,0 +1,11 @@
+I:\.ITI\17.C#\C# workspace\Cart-\Cart-\obj\Debug\Cart-.csproj.AssemblyReference.cache
+I:\.ITI\17.C#\C# workspace\Cart-\Cart-\obj\Debug\Cart-.csproj.SuggestedBindingRedirects.cache
+I:\.ITI\17.C#\C# workspace\Cart-\Cart-\obj\Debug\Cart_.Form1.resources
+I:\.ITI\17.C#\C# workspace\Cart-\Cart-\obj\Debug\Cart_.Properties.Resources.resources
+I:\.ITI\17.C#\C# workspace\Cart-\Cart-\obj\Debug\Cart-.csproj.GenerateResource.cache
+I:\.ITI\17.C#\C# workspace\Cart-\Cart-\obj\Debug\Cart-.csproj.CoreCompileInputs.cache
+I:\.ITI\17.C#\C# workspace\Cart-\Cart-\bin\Debug\Cart-.exe.config
+I:\.ITI\17.C#\C# workspace\Cart-\Cart-\bin\Debug\Cart-.exe
+I:\.ITI\17.C#\C# workspace\Cart-\Cart-\bin\Debug\Cart-.pdb
+I:\.ITI\17.C#\C# workspace\Cart-\Cart-\obj\Debug\Cart-.exe
+I:\.ITI\17.C#\C# workspace\Cart-\Cart-\obj\Debug\Cart-.pdb

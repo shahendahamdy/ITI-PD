@@ -1,0 +1,15 @@
+I:\.ITI\17.C#\C# workspace\Linq task1\Linq task1\bin\Debug\net6.0\Linq task1.exe
+I:\.ITI\17.C#\C# workspace\Linq task1\Linq task1\bin\Debug\net6.0\Linq task1.deps.json
+I:\.ITI\17.C#\C# workspace\Linq task1\Linq task1\bin\Debug\net6.0\Linq task1.runtimeconfig.json
+I:\.ITI\17.C#\C# workspace\Linq task1\Linq task1\bin\Debug\net6.0\Linq task1.dll
+I:\.ITI\17.C#\C# workspace\Linq task1\Linq task1\bin\Debug\net6.0\Linq task1.pdb
+I:\.ITI\17.C#\C# workspace\Linq task1\Linq task1\obj\Debug\net6.0\Linq task1.csproj.AssemblyReference.cache
+I:\.ITI\17.C#\C# workspace\Linq task1\Linq task1\obj\Debug\net6.0\Linq task1.GeneratedMSBuildEditorConfig.editorconfig
+I:\.ITI\17.C#\C# workspace\Linq task1\Linq task1\obj\Debug\net6.0\Linq task1.AssemblyInfoInputs.cache
+I:\.ITI\17.C#\C# workspace\Linq task1\Linq task1\obj\Debug\net6.0\Linq task1.AssemblyInfo.cs
+I:\.ITI\17.C#\C# workspace\Linq task1\Linq task1\obj\Debug\net6.0\Linq task1.csproj.CoreCompileInputs.cache
+I:\.ITI\17.C#\C# workspace\Linq task1\Linq task1\obj\Debug\net6.0\Linq task1.dll
+I:\.ITI\17.C#\C# workspace\Linq task1\Linq task1\obj\Debug\net6.0\refint\Linq task1.dll
+I:\.ITI\17.C#\C# workspace\Linq task1\Linq task1\obj\Debug\net6.0\Linq task1.pdb
+I:\.ITI\17.C#\C# workspace\Linq task1\Linq task1\obj\Debug\net6.0\Linq task1.genruntimeconfig.cache
+I:\.ITI\17.C#\C# workspace\Linq task1\Linq task1\obj\Debug\net6.0\ref\Linq task1.dll

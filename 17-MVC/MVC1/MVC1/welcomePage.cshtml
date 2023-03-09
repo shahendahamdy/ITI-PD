@@ -1,0 +1,31 @@
+﻿@{
+    Page.Title = "Title goes here";
+//Layout = "Your Layout Page goes here";
+}
+
+<div>
+    <form method="post">
+        <label>Name</label>
+        <input type="text" name="name"/><br />
+        <label>BirthDate</label>
+        <input type="date" name="date"/><br />
+        <input type="submit" value="go"/>
+        <input type="checkbox" name="graduate" />
+        <label>Is Graduated?</label>
+    </form>
+    @if (!Request.Form["name"].IsEmpty() && !Request.Form["date"].IsEmpty() ){
+        <div>
+            <p style="color:red">Hello @Request.Form["name"] </p>
+            <p style="color:blue">Your birthDate is :@Request.Form["date"]</p>
+            @if (@Request.Form["graduate"] == "on")
+            {
+                <p> Yes i'm graduate</p>
+            }
+            else
+            {
+                <p> I'm not graduate</p>
+
+            }
+        </div>
+    }
+</div>

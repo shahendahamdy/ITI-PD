@@ -1,0 +1,15 @@
+I:\.ITI\17.C#\C# workspace\Solution1\HworldProject\bin\Debug\net6.0\HworldProject.exe
+I:\.ITI\17.C#\C# workspace\Solution1\HworldProject\bin\Debug\net6.0\HworldProject.deps.json
+I:\.ITI\17.C#\C# workspace\Solution1\HworldProject\bin\Debug\net6.0\HworldProject.runtimeconfig.json
+I:\.ITI\17.C#\C# workspace\Solution1\HworldProject\bin\Debug\net6.0\HworldProject.dll
+I:\.ITI\17.C#\C# workspace\Solution1\HworldProject\bin\Debug\net6.0\HworldProject.pdb
+I:\.ITI\17.C#\C# workspace\Solution1\HworldProject\obj\Debug\net6.0\HworldProject.csproj.AssemblyReference.cache
+I:\.ITI\17.C#\C# workspace\Solution1\HworldProject\obj\Debug\net6.0\HworldProject.GeneratedMSBuildEditorConfig.editorconfig
+I:\.ITI\17.C#\C# workspace\Solution1\HworldProject\obj\Debug\net6.0\HworldProject.AssemblyInfoInputs.cache
+I:\.ITI\17.C#\C# workspace\Solution1\HworldProject\obj\Debug\net6.0\HworldProject.AssemblyInfo.cs
+I:\.ITI\17.C#\C# workspace\Solution1\HworldProject\obj\Debug\net6.0\HworldProject.csproj.CoreCompileInputs.cache
+I:\.ITI\17.C#\C# workspace\Solution1\HworldProject\obj\Debug\net6.0\HworldProject.dll
+I:\.ITI\17.C#\C# workspace\Solution1\HworldProject\obj\Debug\net6.0\refint\HworldProject.dll
+I:\.ITI\17.C#\C# workspace\Solution1\HworldProject\obj\Debug\net6.0\HworldProject.pdb
+I:\.ITI\17.C#\C# workspace\Solution1\HworldProject\obj\Debug\net6.0\HworldProject.genruntimeconfig.cache
+I:\.ITI\17.C#\C# workspace\Solution1\HworldProject\obj\Debug\net6.0\ref\HworldProject.dll

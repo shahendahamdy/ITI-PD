@@ -1,0 +1,51 @@
+﻿@model MVC3_1.Models.Car
+
+@{
+    ViewBag.Title = "SelectCarById";
+}
+
+<h2>SelectCarById</h2>
+
+<div>
+    <h4>Car</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Num)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Num)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Color)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Color)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Model)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Model)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Manfacture)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Manfacture)
+        </dd>
+
+    </dl>
+</div>
+<p>
+
+        @Html.ActionLink("Edit", "UpdateCar", new { num = @Html.DisplayNameFor(model => model.Num) }); |
+    @Html.ActionLink("Back to List", "GetAllCars")
+</p>
