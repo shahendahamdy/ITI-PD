@@ -1,0 +1,15 @@
+I:\.ITI\17.C#\C# workspace\Day2\Task3\bin\Debug\net6.0\Task3.exe
+I:\.ITI\17.C#\C# workspace\Day2\Task3\bin\Debug\net6.0\Task3.deps.json
+I:\.ITI\17.C#\C# workspace\Day2\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+I:\.ITI\17.C#\C# workspace\Day2\Task3\bin\Debug\net6.0\Task3.dll
+I:\.ITI\17.C#\C# workspace\Day2\Task3\bin\Debug\net6.0\Task3.pdb
+I:\.ITI\17.C#\C# workspace\Day2\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+I:\.ITI\17.C#\C# workspace\Day2\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+I:\.ITI\17.C#\C# workspace\Day2\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+I:\.ITI\17.C#\C# workspace\Day2\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+I:\.ITI\17.C#\C# workspace\Day2\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+I:\.ITI\17.C#\C# workspace\Day2\Task3\obj\Debug\net6.0\Task3.dll
+I:\.ITI\17.C#\C# workspace\Day2\Task3\obj\Debug\net6.0\refint\Task3.dll
+I:\.ITI\17.C#\C# workspace\Day2\Task3\obj\Debug\net6.0\Task3.pdb
+I:\.ITI\17.C#\C# workspace\Day2\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
+I:\.ITI\17.C#\C# workspace\Day2\Task3\obj\Debug\net6.0\ref\Task3.dll

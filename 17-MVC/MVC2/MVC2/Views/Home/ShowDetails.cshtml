@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "ShowDetails";
+}
+
+<h2>ShowDetails</h2>
+<h4>Your id is @ViewBag.id</h4>
+<h4>Tour name is @ViewBag.name</h4>
+@{
+    var srcc = "/images/" + ViewBag.pic + ".jpg";
+
+
+}
+<h4>Tour name is @srcc</h4>
+
+<img src=@srcc />
+

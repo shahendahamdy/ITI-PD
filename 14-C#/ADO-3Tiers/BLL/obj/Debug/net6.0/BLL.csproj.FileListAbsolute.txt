@@ -1,0 +1,16 @@
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\BLL\bin\Debug\net6.0\BLL.deps.json
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\BLL\bin\Debug\net6.0\BLL.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\BLL\bin\Debug\net6.0\BLL.pdb
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\BLL\bin\Debug\net6.0\DAL.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\BLL\bin\Debug\net6.0\DAL.pdb
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\BLL\bin\Debug\net6.0\DAL.dll.config
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\BLL\obj\Debug\net6.0\BLL.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\BLL\obj\Debug\net6.0\refint\BLL.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\BLL\obj\Debug\net6.0\BLL.pdb
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\BLL\obj\Debug\net6.0\ref\BLL.dll

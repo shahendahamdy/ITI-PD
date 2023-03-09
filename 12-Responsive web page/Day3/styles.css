@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+}
+.side-images img{
+    width: 200px;
+    height: 200px;
+}
+.bi-triangle-fill{
+    top: -15px;
+}

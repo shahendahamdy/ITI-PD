@@ -1,0 +1,52 @@
+﻿@using MVC1;
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    @{
+        List<productClass> prod = new List<productClass>()
+{
+            new productClass(){Id=1,Name="aaa",price=1000},
+            new productClass(){Id=2,Name="bbb",price=2000},
+            new productClass(){Id=3,Name="ccc",price=3000},
+        };
+
+    }
+
+  
+    @{
+        var myChart = new Chart(width: 600, height: 400)
+            .AddTitle("Chart Title")
+            .AddSeries(
+                name: "Employee",
+                xValue: prod.Select(p => p.Name).ToArray(),
+                yValues: prod.Select(p => p.price).ToArray()
+                )
+            .Write();
+    }
+
+    @*@{
+            WebGrid web = new WebGrid(prod);
+        }
+        @web.GetHtml();*@
+
+    @*<table>
+            <tr>
+                <th>ID</th>
+                <th>name</th>
+                <th>price</th>
+            </tr>
+            @foreach(productClass itm in prod)
+                {
+                    <tr>
+                        <td>@itm.Id</td>
+                        <td>@itm.Name</td>
+                        <td>@itm.price</td>
+                    </tr>
+                }
+
+        </table>*@
+</body>
+</html>

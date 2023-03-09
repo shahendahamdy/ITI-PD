@@ -1,0 +1,13 @@
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\DAL\bin\Debug\net6.0\DAL.dll.config
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\DAL\bin\Debug\net6.0\DAL.deps.json
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\DAL\bin\Debug\net6.0\DAL.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\DAL\bin\Debug\net6.0\DAL.pdb
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\DAL\obj\Debug\net6.0\DAL.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\DAL\obj\Debug\net6.0\refint\DAL.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\DAL\obj\Debug\net6.0\DAL.pdb
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\DAL\obj\Debug\net6.0\ref\DAL.dll

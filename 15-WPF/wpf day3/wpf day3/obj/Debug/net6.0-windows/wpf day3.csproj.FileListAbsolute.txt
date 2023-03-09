@@ -1,0 +1,21 @@
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\obj\Debug\net6.0-windows\wpf day3.csproj.AssemblyReference.cache
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\obj\Debug\net6.0-windows\App.g.cs
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\obj\Debug\net6.0-windows\wpf day3_MarkupCompile.cache
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\bin\Debug\net6.0-windows\wpf day3.exe
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\bin\Debug\net6.0-windows\wpf day3.deps.json
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\bin\Debug\net6.0-windows\wpf day3.runtimeconfig.json
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\bin\Debug\net6.0-windows\wpf day3.dll
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\bin\Debug\net6.0-windows\wpf day3.pdb
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\obj\Debug\net6.0-windows\MainWindow.g.cs
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\obj\Debug\net6.0-windows\wpf day3_MarkupCompile.lref
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\obj\Debug\net6.0-windows\MainWindow.baml
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\obj\Debug\net6.0-windows\wpf day3.g.resources
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\obj\Debug\net6.0-windows\wpf day3.GeneratedMSBuildEditorConfig.editorconfig
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\obj\Debug\net6.0-windows\wpf day3.AssemblyInfoInputs.cache
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\obj\Debug\net6.0-windows\wpf day3.AssemblyInfo.cs
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\obj\Debug\net6.0-windows\wpf day3.csproj.CoreCompileInputs.cache
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\obj\Debug\net6.0-windows\wpf day3.dll
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\obj\Debug\net6.0-windows\refint\wpf day3.dll
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\obj\Debug\net6.0-windows\wpf day3.pdb
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\obj\Debug\net6.0-windows\wpf day3.genruntimeconfig.cache
+I:\.ITI\17.C#\C# workspace\wpf day3\wpf day3\obj\Debug\net6.0-windows\ref\wpf day3.dll

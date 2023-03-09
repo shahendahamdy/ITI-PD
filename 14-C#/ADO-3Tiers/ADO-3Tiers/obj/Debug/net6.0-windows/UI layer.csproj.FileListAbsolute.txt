@@ -1,0 +1,57 @@
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\UI layer.exe
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\UI layer.deps.json
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\UI layer.runtimeconfig.json
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\UI layer.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\UI layer.pdb
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\Azure.Core.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\Azure.Identity.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\System.Memory.Data.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\DAL.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\DAL.pdb
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\DAL.dll.config
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\obj\Debug\net6.0-windows\UI layer.csproj.AssemblyReference.cache
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\obj\Debug\net6.0-windows\ADO_3Tiers.FrmGridView.resources
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\obj\Debug\net6.0-windows\UI layer.csproj.GenerateResource.cache
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\obj\Debug\net6.0-windows\UI layer.GeneratedMSBuildEditorConfig.editorconfig
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\obj\Debug\net6.0-windows\UI layer.AssemblyInfoInputs.cache
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\obj\Debug\net6.0-windows\UI layer.AssemblyInfo.cs
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\obj\Debug\net6.0-windows\UI layer.csproj.CoreCompileInputs.cache
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\obj\Debug\net6.0-windows\UI layer.csproj.CopyComplete
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\obj\Debug\net6.0-windows\UI layer.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\obj\Debug\net6.0-windows\refint\UI layer.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\obj\Debug\net6.0-windows\UI layer.pdb
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\obj\Debug\net6.0-windows\UI layer.genruntimeconfig.cache
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\obj\Debug\net6.0-windows\ref\UI layer.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\BLL.dll
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\BLL.pdb
+I:\.ITI\17.C#\C# workspace\ADO-3Tiers\ADO-3Tiers\bin\Debug\net6.0-windows\UI layer.dll.config

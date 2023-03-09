@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "GetAllCars";
+}
+<style>
+    table{
+        background-color:yellow;
+    }
+    td ,th{
+       border:1px solid black
+    }
+</style>
+
+<a href="AddCar">Add new car</a>
+
+<table style="border:1px solid black" >
+    <tr style="border:1px solid black">
+        <th>NUM </th>
+        <th>COLOR </th>
+        <th>MODEL </th>
+        <th>Manufacture </th>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+    </tr>
+    @foreach (var itm in ViewBag.Cars)
+    {
+        <tr>
+            <td>@itm.Num</td>s
+            <td>@itm.Color</td>
+            <td>@itm.Model</td>
+            <td>@itm.Manfacture</td>
+            <td><a href="SelectCarById/@itm.Num"> select car</a> </td>
+            <td><a href="UpdateCar/@itm.Num">update car</a> </td>
+            <td><a href="DeleteCar/@itm.Num">delete car </a></td>
+           
+        </tr>
+
+    }
+</table>

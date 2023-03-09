@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "UpdateCar";
+    MVC2.Models.Car edited= ViewBag.selectedCar;
+
+
+}
+
+<h2>UpdateCar</h2>
+
+
+<form action="/Car/UpdateCar" method="post">
+
+    Number <input type="text" name="num" value="@edited.Num" /><br />
+    Color <input type="text" name="color" value="@edited.Color" /><br />
+    Model <input type="text" name="model" value="@edited.Model" /><br />
+    Manfacture<input type="text" name="manfacture" value="@edited.Manfacture" /><br />
+
+    <input type="submit" value="Save" />
+</form>

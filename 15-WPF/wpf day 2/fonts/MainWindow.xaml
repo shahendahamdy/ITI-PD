@@ -1,0 +1,31 @@
+﻿<Window x:Class="fonts.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:fonts"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel LastChildFill="False">
+
+
+        <ListBox x:Name="lst" 
+                ItemsSource="{x:Static Fonts.SystemFontFamilies}"
+                 Background="LightPink"
+                 DockPanel.Dock="Left">
+            
+        </ListBox>
+       
+        <Border BorderBrush="LightBlue"
+                BorderThickness="3"
+                DockPanel.Dock="Bottom">
+            <TextBox x:Name="txt1" ></TextBox>
+        </Border>
+        <StackPanel>
+            <Label FontFamily="{Binding ElementName=lst, Path=SelectedItem}" Content="{Binding  ElementName=txt1, Path=Text}" FontSize="15"></Label>
+            <Label FontFamily="{Binding ElementName=lst, Path=SelectedItem}" Content="{Binding  ElementName=txt1, Path=Text}" FontSize="25"></Label>
+            <Label  FontFamily="{Binding ElementName=lst, Path=SelectedItem}" Content="{Binding  ElementName=txt1, Path=Text}"  FontSize="40"></Label>
+            <Label FontFamily="{Binding ElementName=lst, Path=SelectedItem}" Content="{Binding  ElementName=txt1, Path=Text}" FontSize="55"></Label>
+        </StackPanel>
+    </DockPanel>
+</Window>

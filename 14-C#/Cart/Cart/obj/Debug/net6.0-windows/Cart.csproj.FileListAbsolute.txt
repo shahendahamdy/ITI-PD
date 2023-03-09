@@ -1,0 +1,8 @@
+I:\.ITI\17.C#\C# workspace\Cart\Cart\obj\Debug\net6.0-windows\Cart.csproj.AssemblyReference.cache
+I:\.ITI\17.C#\C# workspace\Cart\Cart\obj\Debug\net6.0-windows\Cart.Form1.resources
+I:\.ITI\17.C#\C# workspace\Cart\Cart\obj\Debug\net6.0-windows\Cart.Properties.Resources.resources
+I:\.ITI\17.C#\C# workspace\Cart\Cart\obj\Debug\net6.0-windows\Cart.csproj.GenerateResource.cache
+I:\.ITI\17.C#\C# workspace\Cart\Cart\obj\Debug\net6.0-windows\Cart.GeneratedMSBuildEditorConfig.editorconfig
+I:\.ITI\17.C#\C# workspace\Cart\Cart\obj\Debug\net6.0-windows\Cart.AssemblyInfoInputs.cache
+I:\.ITI\17.C#\C# workspace\Cart\Cart\obj\Debug\net6.0-windows\Cart.AssemblyInfo.cs
+I:\.ITI\17.C#\C# workspace\Cart\Cart\obj\Debug\net6.0-windows\Cart.csproj.CoreCompileInputs.cache

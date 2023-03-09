@@ -1,0 +1,15 @@
+I:\.ITI\17.C#\C# workspace\day8\day8\obj\Debug\net6.0\day8.csproj.AssemblyReference.cache
+I:\.ITI\17.C#\C# workspace\day8\day8\obj\Debug\net6.0\day8.GeneratedMSBuildEditorConfig.editorconfig
+I:\.ITI\17.C#\C# workspace\day8\day8\obj\Debug\net6.0\day8.AssemblyInfoInputs.cache
+I:\.ITI\17.C#\C# workspace\day8\day8\obj\Debug\net6.0\day8.AssemblyInfo.cs
+I:\.ITI\17.C#\C# workspace\day8\day8\obj\Debug\net6.0\day8.csproj.CoreCompileInputs.cache
+I:\.ITI\17.C#\C# workspace\day8\day8\bin\Debug\net6.0\day8.exe
+I:\.ITI\17.C#\C# workspace\day8\day8\bin\Debug\net6.0\day8.deps.json
+I:\.ITI\17.C#\C# workspace\day8\day8\bin\Debug\net6.0\day8.runtimeconfig.json
+I:\.ITI\17.C#\C# workspace\day8\day8\bin\Debug\net6.0\day8.dll
+I:\.ITI\17.C#\C# workspace\day8\day8\bin\Debug\net6.0\day8.pdb
+I:\.ITI\17.C#\C# workspace\day8\day8\obj\Debug\net6.0\day8.dll
+I:\.ITI\17.C#\C# workspace\day8\day8\obj\Debug\net6.0\refint\day8.dll
+I:\.ITI\17.C#\C# workspace\day8\day8\obj\Debug\net6.0\day8.pdb
+I:\.ITI\17.C#\C# workspace\day8\day8\obj\Debug\net6.0\day8.genruntimeconfig.cache
+I:\.ITI\17.C#\C# workspace\day8\day8\obj\Debug\net6.0\ref\day8.dll

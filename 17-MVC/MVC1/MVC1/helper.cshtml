@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    @{ 
+        List<product> prod = new List<product>()
+        {
+            new product(){Id=1,Name="aaa",price=1000},
+            new product(){Id=2,Name="bbb",price=2000},
+            new product(){Id=3,Name="ccc",price=3000},
+        };
+
+    }
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>name</th>
+            <th>price</th>
+        </tr>
+        @foreach(var itm in prod ){
+            <tr>
+                <th>prod.id</th>
+                <th>name</th>
+                <th>price</th>
+            </tr>
+        }
+    </table>
+</body>
+</html>
